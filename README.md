@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Kawsar Ahmed Shojib
 
-💼 **Software Engineer @ Nazihar IT Solutions Ltd**  
+<img src="https://img.icons8.com/color/48/briefcase.png" width="20"/> **Software Engineer @ Nazihar IT Solutions Ltd**
+<img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> **M.S. @ University of Chittagong**
+<img src="https://img.icons8.com/color/48/organization.png" width="20"/> **Website Management Secretary @ CUSS**
 🌱 Passionate about building smart systems and learning cutting-edge data technologies.
 
 ---
