@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shojib068's GitHub profile" src="dark_mode.svg" />
+</picture>
 ## 👋 It's Kawsar Ahmed Shojib
 ## Open for Research Assistant ( Domain: AI, ML, Data Science )
 
@@ -27,8 +32,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="shojib068's GitHub profile" src="dark_mode.svg" />
-</picture>
+
