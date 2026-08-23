@@ -27,19 +27,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Shojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shojib068&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shojib068&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-Kawsar%20Ahmed%20Shojib-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawsarahmedshojib)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shojib068's GitHub profile" src="dark_mode.svg" />
+</picture>
