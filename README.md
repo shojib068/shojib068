@@ -5,6 +5,7 @@
 </picture>
 ## 👋 It's Kawsar Ahmed Shojib
 ## Open for Research Assistant ( Domain: AI, ML, Data Science )
+- <img src="https://img.icons8.com/color/48/briefcase.png" width="20"/> **Executive @ Yetfix Limited** 
 
 - <img src="https://img.icons8.com/color/48/briefcase.png" width="20"/> **Software Engineer @ Nazihar IT Solutions Ltd** 
 - <img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> **M.S. @ University of Chittagong** 
@@ -14,7 +15,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Temenos T24 (Core Banking System)**
+- 🔭 Currently working on **Flutter**
+- 🔭 Ex - worked on **Temenos T24 (Core Banking System)**
 - 🌱 Learning **Java**, **Temenos T24**, and **InfoBasic**
 - 💡 Interested in**Database Management System**, **Data Analysis**, **Machine Learning**, **AI Agents**, and **Data Visualization**
 - 👯 Open to collaborating on **research-based** and **analysis-based** projects
